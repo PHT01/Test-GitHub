@@ -1,0 +1,5 @@
+Ngày 30/6/2021: lần dầu tiên tạo tài khoản git & git hub và học cách sử dụng
+file được tạo ra để cho thấy sự phát triển của bạn thân: xem bao lâu có thể sử dụng Git thành thạo
+
+PLMH_2021
+
